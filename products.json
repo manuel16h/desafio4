@@ -1,0 +1,47 @@
+[
+    {
+        "id": 2,
+        "title": "prueba2",
+        "description": "prueba",
+        "price": 10,
+        "thumbnail": "img",
+        "code": "code-2304",
+        "stock": 20
+    },
+    {
+        "id": 3,
+        "title": "prueba3",
+        "description": "prueba",
+        "price": 150,
+        "thumbnail": "img",
+        "code": "code-2303",
+        "stock": 5
+    },
+    {
+        "id": 4,
+        "title": "Aprueba4",
+        "description": "prueba",
+        "price": 20,
+        "thumbnail": "img",
+        "code": "code-2302",
+        "stock": 5
+    },
+    {
+        "id": 5,
+        "title": "prueba5",
+        "description": "prueba",
+        "price": 10,
+        "thumbnail": "img",
+        "code": "code-2305",
+        "stock": 5
+    },
+    {
+        "id": 6,
+        "title": "prueba6",
+        "description": "prueba",
+        "price": 35,
+        "thumbnail": "img",
+        "code": "code-2301",
+        "stock": 2
+    }
+]
